@@ -1,0 +1,5 @@
+{
+  "name": "NetPulse: Network Traffic Analyzer",
+  "description": "A real-time network packet visualization and analysis tool with simulated traffic monitoring and anomaly detection.",
+  "requestFramePermissions": []
+}
